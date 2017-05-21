@@ -1,13 +1,16 @@
 # Zerolang
 
+Creating a language with ANTLR4 and Kotlin.
+
 #### Generate Parser
 
-´´´bash
+```bash
 $ antlr4 Zerolang.g4
-´´´
+```
 
 #### Test
 
-´´´bash
-$ grun Zerolang r -tree
-´´´
+```bash
+$ grun Zerolang program -tree
+$ grun Zerolang program -gui
+```
