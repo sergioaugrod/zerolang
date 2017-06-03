@@ -1,6 +1,6 @@
 # Zerolang
 
-Creating a language with ANTLRR4 and Kotlin.
+Creating a language with ANTLR4 and Kotlin.
 
 #### Generate Parser
 
